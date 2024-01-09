@@ -1,0 +1,50 @@
+.grid-cols-custom {
+  display: grid;
+  grid-template-columns: 15% 85%;
+}
+.search-container {
+  display: flex;
+  align-items: center;
+  border-radius: 6px;
+  padding: 5px 15px;
+  background: #f2f2f2;
+  width: 350px;
+}
+.search-container input[type="search"] {
+  border: none;
+  outline: none;
+  width: 300px;
+  background-color: #f2f2f2;
+}
+.table-search-container {
+  display: flex;
+  align-items: center;
+  border-radius: 6px;
+  padding: 5px 15px;
+  background: #fff;
+  width: 250px;
+  border: 2px solid #e6e6e6;
+}
+.table-search-container input[type="search"] {
+  border: none;
+  outline: none;
+  background-color: #fff;
+}
+.rounded-background {
+  background-color: #e6e6e6;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+.table-head {
+  padding: 5px 10px;
+}
+td {
+  padding: 10px;
+}
+th {
+  padding: 10px;
+}
+.secondary-color {
+  color: #4c4c4c;
+}
