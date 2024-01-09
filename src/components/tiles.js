@@ -13,11 +13,11 @@ const Tiles = () => {
       </div>
       <div className="grid grid-cols-2 gap-5 mt-5">
         <div className="bg-white p-5 rounded-lg">
-          <p className="mb-4">Online orders</p>
+          <p className="mb-4 text-lg">Online orders</p>
           <p className="font-semibold text-4xl">231</p>
         </div>
         <div className="bg-white p-5 rounded-lg">
-          <p className="mb-4">Amount received</p>
+          <p className="mb-4 text-lg">Amount received</p>
           <p className="font-semibold text-4xl">₹23,92,312.19</p>
         </div>
       </div>
