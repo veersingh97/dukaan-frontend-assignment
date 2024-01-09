@@ -6,7 +6,7 @@ import { CiWallet } from "react-icons/ci";
 
 const Sidebar = () => {
   return (
-    <div className="flex flex-col justify-between p-2 bg-[#1e2640] text-white">
+    <div className="flex flex-col justify-between px-2 py-4 bg-[#1e2640] text-white">
       <div>
         <div className="flex items-center mb-9 justify-between">
           <div className="flex items-center gap-3">
